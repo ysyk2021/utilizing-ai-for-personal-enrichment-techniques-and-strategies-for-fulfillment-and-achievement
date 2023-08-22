@@ -1,4 +1,4 @@
-# Enhancing Creativity and Innovation with AI-Enabled Idea Generation and Visualization
+
 
 ## Introduction
 
