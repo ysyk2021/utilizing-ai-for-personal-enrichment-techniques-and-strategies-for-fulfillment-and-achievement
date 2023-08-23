@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how AI can be used to develop skills and hobbies by providing learning and practice support. We will look at some of the ways that AI can help us to learn new skills and improve existing ones.
 
 Understanding AI-Enabled Learning and Practice Support
